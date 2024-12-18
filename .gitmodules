@@ -1,0 +1,6 @@
+[submodule "wallet_nfc_server"]
+	path = wallet_nfc_server
+	url = https://github.com/Oh-Kang94/wallet_nfc_server
+[submodule "wallet_nfc_client"]
+	path = wallet_nfc_client
+	url = https://github.com/Oh-Kang94/wallet_nfc_client
